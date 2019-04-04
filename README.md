@@ -3,11 +3,11 @@ Camera Lens Super-Resolution
 Chang Chen, Zhiwei Xiong, Xinmei Tian, Zheng-Jun Zha, Feng Wu. Camera Lens Super-Resolution. In CVPR 2019. <br/>
 
 ## City100 Dataset
-To access the DSLR variant of City100
+To access the DSLR version of City100
 ```
 cd City100/City100_NikonD5500
 ```
-To access the smartphone variant of City100
+To access the smartphone version of City100
 ```
 cd City100/City100_iPhoneX
 ```
