@@ -1,6 +1,6 @@
 Camera Lens Super-Resolution
 ====
-Chang Chen, Zhiwei Xiong, Xinmei Tian, Zheng-Jun Zha, Feng Wu. [Camera Lens Super-Resolution]{http://staff.ustc.edu.cn/~zwxiong/cameraSR.pdf}. In CVPR 2019. <br/>
+Chang Chen, Zhiwei Xiong, Xinmei Tian, Zheng-Jun Zha, Feng Wu. [Camera Lens Super-Resolution](http://staff.ustc.edu.cn/~zwxiong/cameraSR.pdf). In CVPR 2019. <br/>
 
 ## City100 Dataset
 To access the DSLR version of City100
