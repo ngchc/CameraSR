@@ -13,7 +13,8 @@ cd City100/City100_iPhoneX
 ```
 To access the raw files of City100 (10 GB) <br/>
 Download City100_RAW.tar.gz.0~2 from  <br/>
-http://pan.bitahub.com/index.php?mod=shares&sid=eTJ2bFFQR3BzTm5FTGdWN19RNGh1TTR4d0Q3Y2dKT3NwNGVvSUE
+[http://pan.bitahub.com/index.php?mod=shares& <br/>
+sid=eTJ2bFFQR3BzTm5FTGdWN19RNGh1TTR4d0Q3Y2dKT3NwNGVvSUE](http://pan.bitahub.com/index.php?mod=shares&sid=eTJ2bFFQR3BzTm5FTGdWN19RNGh1TTR4d0Q3Y2dKT3NwNGVvSUE)
 ```
 cat City100_RAW.tar.gz.* | tar -xzv
 ```
